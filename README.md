@@ -1,6 +1,6 @@
 Overview
 ========
-This directory stores a default theme for an Open edX instance.
+This directory stores a default theme for an a Greek Open edX instance.
 
 We've organized the tree to mimic the directory structure of the edX
 codebase so that it's easy to tell where the files will end up upon
